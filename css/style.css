@@ -48,16 +48,19 @@ div{
     text-align: left;
 }
 #yellow{
-    background-color: #8B8000;
+    background-color: #ffff00;
     text-align: right;
 }
 
 
 
-#yellow h2 { 
+#yellow h2, #yellow p { 
     
     color: #000000;
-    text-shadow: #c7e2c7;
+    
+}
+#yellow h2{
+    text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 footer p{
