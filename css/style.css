@@ -48,15 +48,14 @@ div{
     text-align: left;
 }
 #yellow{
-    background-color: #ffff00;
+    background-color: #8B8000;
     text-align: right;
 }
 
 
 
 #yellow h2 { 
-    background-color: #ffff00;
-    text-align: right;
+    
     color: #000000;
     text-shadow: #c7e2c7;
 }
